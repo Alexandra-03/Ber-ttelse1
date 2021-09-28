@@ -1,0 +1,16 @@
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\bin\Debug\net5.0\Berättelse1.exe
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\bin\Debug\net5.0\Berättelse1.deps.json
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\bin\Debug\net5.0\Berättelse1.runtimeconfig.json
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\bin\Debug\net5.0\Berättelse1.runtimeconfig.dev.json
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\bin\Debug\net5.0\Berättelse1.dll
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\bin\Debug\net5.0\ref\Berättelse1.dll
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\bin\Debug\net5.0\Berättelse1.pdb
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\obj\Debug\net5.0\Berättelse1.csproj.AssemblyReference.cache
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\obj\Debug\net5.0\Berättelse1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\obj\Debug\net5.0\Berättelse1.AssemblyInfoInputs.cache
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\obj\Debug\net5.0\Berättelse1.AssemblyInfo.cs
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\obj\Debug\net5.0\Berättelse1.csproj.CoreCompileInputs.cache
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\obj\Debug\net5.0\Berättelse1.dll
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\obj\Debug\net5.0\ref\Berättelse1.dll
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\obj\Debug\net5.0\Berättelse1.pdb
+C:\Users\Administratör\Documents\Årskurs 2\Programmering\InteraktivBerättelse\Berättelse1\Berättelse1\obj\Debug\net5.0\Berättelse1.genruntimeconfig.cache
